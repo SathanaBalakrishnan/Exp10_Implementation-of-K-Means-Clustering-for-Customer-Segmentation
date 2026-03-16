@@ -70,6 +70,8 @@ plt.title("Customer Segments")
 
 ![Output Screenshot](exp10op1.png)
 
+![Output Screenshot](exp10op1.1.png)
+
 ![Output Screenshot](exp10op2.png)
 
 ![Output Screenshot](exp10op3.png)
